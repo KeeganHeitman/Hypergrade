@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class question3_1
+public class hypergrade3_1
 {
     public static void main(String[] args)
     {
